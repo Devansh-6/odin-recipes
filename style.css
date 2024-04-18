@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, system-ui;
+    color: purple;
+    background-color: yellow;
+    text-align: center;
+}
+
+img{
+    padding: 10px;
+    border: red solid 2px;
+    margin: 4px;
+}
+
+h1{
+    color: lightcoral;
+    font-family: fantasy, monospace;
+    font-size: 3em;
+}
+
+ul li{
+    font-style: oblique;
+    font-size: 20px;
+    font-variant: small-caps;
+    text-shadow: 2px 3px yellowgreen;   
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
